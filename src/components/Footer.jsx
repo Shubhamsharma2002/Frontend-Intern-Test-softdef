@@ -1,5 +1,5 @@
 export default function Footer() {
   return (
-  <div> setup cooming soon ...</div>
+  <div> setup cooming soon .         ..</div>
   );
 }
