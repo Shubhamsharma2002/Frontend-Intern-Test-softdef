@@ -1,6 +1,7 @@
 export default function Footer() {
   return (
   
+    
     <div className="bg-[#BCDDFE] text-black">
      
         <div className=" flex justify-around">
