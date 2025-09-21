@@ -10,6 +10,7 @@
   width: 100%; /* default: mobile pe full width */
 }
 
+
 /* Tablet screens (≥640px) */
 @media (min-width: 640px) {
   .wid > div {
