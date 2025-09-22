@@ -1,7 +1,5 @@
 export default function Footer() {
   return (
-
-    
     <div className="bg-[#BCDDFE] text-black flex flex-col p-10  md:p-[60px] md:gap-[70px]">
       <div className=" wid border-amber-600 border-2 flex flex-col  md:flex-row justify-between">
         <div>
