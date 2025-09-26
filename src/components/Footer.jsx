@@ -7,7 +7,10 @@ export default function Footer() {
         <div>
          <b>E-Comm</b>
           <p className="text-sm mt-3">
-           Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever.Since the 1500s, when an unknown printer.
+           Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
+           
+           
+           Lorem Ipsum has been the industry's standard dummy text ever.Since the 1500s, when an unknown printer.
           </p>
         </div>
         <div>
