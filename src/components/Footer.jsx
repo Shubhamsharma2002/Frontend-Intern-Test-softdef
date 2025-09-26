@@ -15,6 +15,8 @@ export default function Footer() {
         </div>
         <div>
           <b>Follow Us</b>
+
+          
          <p className="text-sm mt-3">
            Since the 1500s, when an unknown printer took a galley of type and scrambled.
           </p>
