@@ -16,7 +16,7 @@ export default function Footer() {
         <div>
           <b>Follow Us</b>
 
-          
+
          <p className="text-sm mt-3">
            Since the 1500s, when an unknown printer took a galley of type and scrambled.
           </p>
@@ -27,6 +27,7 @@ export default function Footer() {
            E-Comm , 4578 <br /> Marmora Road,  <br /> Glasgow D04 89GR
           </p>
         </div>
+        
       </div>
       <div className="grid grid-cols-1 md:grid-cols-4  border-2 border-amber-200">
         <div>
